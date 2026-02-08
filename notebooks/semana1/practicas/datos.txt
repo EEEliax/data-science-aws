@@ -1,0 +1,8 @@
+Elias,20,Mar del Plata,1,Analista de Sistemas
+Ana,25,Buenos Aires,2,Psicologia
+Juan,30,Cordoba,3,Ingenieria
+Lucia,22,Rosario,4,Arquitectura
+Pedro,28,Mar del Plata,5,Programacion
+Sofia,35,Buenos Aires,6,Economia
+Mateo,27,Cordoba,7,Data Science
+Valentina,24,Rosario,8,Diseño
