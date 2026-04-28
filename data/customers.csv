@@ -1,0 +1,10 @@
+customer_id,customer_name,segment,country,city
+C001,Juan Perez,Corporate,Argentina,Buenos Aires
+C002,Ana Gomez,Consumer,Argentina,Cordoba
+C003,Carlos Diaz,Home Office,Argentina,Rosario
+C004,Lucia Fernandez,Corporate,Chile,Santiago
+C005,Martin Lopez,Consumer,Argentina,Mendoza
+C006,Sofia Ramirez,Home Office,Chile,Valparaiso
+C007,Pedro Martinez,Consumer,Argentina,La Plata
+C008,Valentina Ruiz,Corporate,Uruguay,Montevideo
+C009,Diego Silva,Home Office,Chile,Concepcion
